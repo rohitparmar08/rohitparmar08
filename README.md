@@ -9,10 +9,10 @@ I specialize in building full-stack web applications, REST APIs, database system
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA - AI & IoT)**  
-  *National Institute of Technology (NIT), Patna* | **CGPA: 7.35** | Expected May 2027  
+  *National Institute of Technology (NIT), Patna* | Expected May 2027  
 
 - **Bachelor of Computer Applications (BCA)**  
-  *ISBA Institute of Professional Studies* | **72.2%** | November 2023  
+  *ISBA Institute of Professional Studies* | November 2023  
 
 ---
 
