@@ -99,4 +99,3 @@ Django app that checks document image quality and extracts details with OCR.
 I'm open to full-time opportunities and happy to talk about backend development, APIs and applied AI.
 
 - **LinkedIn:** [linkedin.com/in/rohit-parmar-58abb2337](https://linkedin.com/in/rohit-parmar-58abb2337)
-- **Email:** [rohitp.mca24@nitp.ac.in](mailto:rohitp.mca24@nitp.ac.in)
